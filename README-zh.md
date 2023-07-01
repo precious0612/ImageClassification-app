@@ -9,4 +9,4 @@
 
 在你的网页浏览器中打开显示的URL，与应用程序进行交互。
 
-你也可以在[英文](README.md)中阅读此README。
+你也可以阅读[英文](README.md)README。
